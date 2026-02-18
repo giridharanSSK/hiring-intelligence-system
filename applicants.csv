@@ -1,0 +1,11 @@
+name,email,role,skills,availability
+Alice Smith,alice@example.com,Python Developer,"Python, Django, SQL",Immediate
+Bob Jones,bob.jones@test,Java Developer,"Java, Spring",1 Month
+Charlie Brown,charlie@example.com,Data Scientist,"Python, Machine Learning, Pandas",Immediate
+David Lee,david@example.com,Python Developer,"Python, Flask, API",Immediate
+Eve White,,Frontend Dev,"React, CSS, HTML",Immediate
+Frank Green,frank@example.com,Python Developer,"Python, Django, SQL",Immediate
+Grace Hall,grace@domain.com,Data Scientist,"SQL, Excel, Tableau",2 Weeks
+Alice Smith,alice@example.com,Python Developer,"Python, Django, SQL",Immediate
+Hank Ford,hank@example.com,Backend Dev,"Node.js, Express",1 Month
+Ivy Wilson,ivy.wilson@school.edu,Python Developer,"Python, Machine Learning, PyTorch",Immediate

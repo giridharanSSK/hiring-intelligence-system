@@ -1,0 +1,8 @@
+name,email,role,skills,availability,Score
+Charlie Brown,charlie@example.com,Data Scientist,"Python, Machine Learning, Pandas",Immediate,10
+Ivy Wilson,ivy.wilson@school.edu,Python Developer,"Python, Machine Learning, PyTorch",Immediate,10
+Alice Smith,alice@example.com,Python Developer,"Python, Django, SQL",Immediate,8
+Frank Green,frank@example.com,Python Developer,"Python, Django, SQL",Immediate,8
+David Lee,david@example.com,Python Developer,"Python, Flask, API",Immediate,5
+Grace Hall,grace@domain.com,Data Scientist,"SQL, Excel, Tableau",2 Weeks,3
+Hank Ford,hank@example.com,Backend Dev,"Node.js, Express",1 Month,0
